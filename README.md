@@ -1,2 +1,2 @@
 # Sales-Analysis
-Using Power BI to make sales report
+A project using Power BI to analyse the sales over years.
