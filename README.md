@@ -1,2 +1,1 @@
-# Sales-Analysis
-A project using Power BI to analyse the sales & returns for period 2018-2021.
+Developed an interactive Power BI dashboard to analyze sales and returns data, providing visibility into key financial metrics such as Net Sales, Return Rate, and product-level profitability. Applied data modeling, DAX, and visualization techniques to support performance tracking and variance analysis. This project reflects core skills in transforming raw data into actionable insights for strategic decision-making.
